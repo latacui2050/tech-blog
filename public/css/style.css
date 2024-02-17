@@ -1,0 +1,13 @@
+.blog-link {
+    text-decoration: none;
+    text-align: center;
+}
+
+.blog-link:hover {
+    color: rgb(85, 128, 172);
+    font-weight: bolder;
+}
+
+.hide {
+    display: none;
+}
